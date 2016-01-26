@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="868" started-at="2016-01-26T10:54:50Z" finished-at="2016-01-26T10:54:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="868" started-at="2016-01-26T10:54:50Z" finished-at="2016-01-26T10:54:51Z">
+      <class name="CenoTest.Jercey.TimeZoneTest">
+        <test-method status="PASS" signature="FaildLocation()[pri:0, instance:CenoTest.Jercey.TimeZoneTest@6a5fc7f7]" name="FaildLocation" duration-ms="755" started-at="2016-01-26T11:54:50Z" finished-at="2016-01-26T11:54:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FaildLocation -->
+        <test-method status="PASS" signature="London()[pri:0, instance:CenoTest.Jercey.TimeZoneTest@6a5fc7f7]" name="London" duration-ms="109" started-at="2016-01-26T11:54:51Z" finished-at="2016-01-26T11:54:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- London -->
+      </class> <!-- CenoTest.Jercey.TimeZoneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
